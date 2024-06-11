@@ -6,7 +6,7 @@ export default function Atencion() {
                 <hr className="border-green-600" />
             </div>
 
-            <div className="grid grid-cols-1 place-content-between mx-12 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-3 xl:grid-cols-3">   
+            <div className="grid grid-cols-1 place-content-between px-40 sm:px-12 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-3 xl:grid-cols-3">   
 
                 <div className="h-[250px] p-4 mx-auto my-6 leading-normal  border bg-gray-50 border-gray-200 rounded-lg shadow-gray-300 w-[360px] shadow-xl">
                     <svg  xmlns="http://www.w3.org/2000/svg"  width="40"  height="40"  viewBox="0 0 24 24"  fill="none"  stroke="#198a19e3"  stroke-width="1.5"  stroke-linecap="round"  stroke-linejoin="round"  className="icon icon-tabler icons-tabler-outline icon-tabler-user"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0" /><path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" /></svg>
