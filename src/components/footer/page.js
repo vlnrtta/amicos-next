@@ -1,7 +1,7 @@
 export default function Footer() {
     return(
-        <div className="w-[635px] sm:w-[1220px] px-12 sm:px-0 sm:mx-auto pb-12 rounded-lg pt-44">
-            <div className="max-w-screen-xl px-12 sm:px-6 w-[650px] sm:w-full sm:mx-auto md:py-2">
+        <div className="w-[550px] sm:w-[1220px] px-12 sm:px-0 mx-auto pb-12 rounded-lg pt-44">
+            <div className="max-w-screen-xl px-6 w-[550px] sm:w-full sm:mx-auto md:py-2">
                 <div className="flex items-center justify-between py-2">
                     <a href="#" className="flex items-center sm:mb-0 space-x-3 rtl:space-x-reverse">
                         <img
@@ -31,17 +31,17 @@ export default function Footer() {
                     </ul>
                 </div>
             </div>
-            <hr className="mb-2 border-gray-400 w-[657px] sm:w-full px-12" />
-            <div className="grid grid-cols-2 place-content-between">
+            <hr className="mb-2 border-gray-400 w-[550px] sm:w-full mx-auto" />
+            <div className="grid grid-cols-2 mx-auto place-content-center">
                 <div className="text-gray-700">
                     <p>Asociación Mutual Intercooperativa Solidaria. <br></br>
                         C.U.I.T. 30-68761473-5 <br></br>
                         Mat. I.N.A.C.Y.M. Nº 680 <br></br>
                         N° de Inscripción RNEMP: 9999 | Superintendencia de Servicios de Salud.</p>
                 </div>
-                <div className="text-gray-700 inline-flex pl-16 sm:pl-0 justify-end sm:gap-2">
+                <div className="text-gray-700 inline-flex pl-12 sm:pl-0 justify-end sm:gap-2">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" className="icon icon-tabler icons-tabler-outline icon-tabler-map-pin" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"/><path d="M9 11a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/><path d="M17.657 16.657 13.414 20.9a2 2 0 0 1-2.827 0l-4.244-4.243a8 8 0 1 1 11.314 0z"/></svg>
-                    <p>San Luis 71 - Nueva Cordoba - Cordoba.</p>
+                    <h5>San Luis 71 - Nueva Cordoba - Cordoba.</h5>
                 </div>
             </div>
         </div>
