@@ -1,6 +1,6 @@
 export default function Footer() {
     return(
-        <div className="mt-32 mb-12 w-[657px] sm:w-full px-12">
+        <div className="w-[635px] sm:w-[1220px] mx-auto pb-12 rounded-lg pt-44">
             <div className="max-w-screen-xl px-6 w-[650px] mx-auto sm:w-full sm:mx-auto md:py-2">
                 <div className="flex items-center justify-between py-2">
                     <a href="#" className="flex items-center sm:mb-0 space-x-3 rtl:space-x-reverse">
@@ -21,13 +21,11 @@ export default function Footer() {
                         </li>
                         <li>
                             <a href="https://www.instagram.com/amicos_mutual/" className="hover:opacity-80 me-4 md:me-6 flex align-bottom">
-                            
                             </a>
 
                         </li>
                         <li>
                             <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXDxqxtnRDWvxvjCRskvHxBBbtQrFZxkZvxVnvZHJcMgnTFxqsncsfpkgWVdjxkgkTvKg" className="hover:opacity-80">
-                            
                             </a>
                         </li>
                     </ul>
