@@ -6,9 +6,9 @@ export default function Info() {
                 <hr className="border-green-600" />
             </div>
 
-            <div className="grid grid-cols-2 place-content-center gap-6 sm:gap-12 w-[657px] sm:w-full mx-auto sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 sm:px-[130px]" id="info">
+            <div className="grid grid-cols-2 place-content-center gap-6 sm:gap-12 w-[657px] sm:w-full md:px-32 mx-auto sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3" id="info">
 
-                <div className="p-4 leading-normal mx-auto">
+                <div className="p-4 leading-normal mx-auto w-[250px] sm:w-[350px]">
                     <a href="/">
                         <div className="group">
                             <img className="w-[160px] mx-auto" src="https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/prestadores1.png?alt=media&token=8e9d78a0-ea1c-40fa-8ff2-0e5a0db7f8f0" alt="" />
@@ -20,7 +20,7 @@ export default function Info() {
                     </a>
                 </div>
 
-                <div className="p-4 leading-normal mx-auto">
+                <div className="p-4 leading-normal mx-auto w-[250px] sm:w-[350px]">
                     <a href="/planes">
                         <div className="group">
                             <img className="w-[160px] mx-auto" src="https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/planes.png?alt=media&token=03c2a9ef-3ecd-424f-9e3b-cfaa1aae9561" alt="" />
@@ -32,7 +32,7 @@ export default function Info() {
                     </a>
                 </div>
 
-                <div  className="p-4 leading-normal mx-auto">
+                <div  className="p-4 leading-normal mx-auto w-[250px] sm:w-[350px]">
                     <a href="/planes">
                         <div className="group">
                             <img className="w-[160px] mx-auto" src="https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/vadem%C3%A9cum1.png?alt=media&token=34094665-c3f6-4d7a-a1c7-789feb11ac2d" alt="" />
@@ -44,7 +44,7 @@ export default function Info() {
                     </a>
                 </div>
 
-                <div  className="p-4 leading-normal mx-auto">
+                <div  className="p-4 leading-normal mx-auto w-[250px] sm:w-[350px]">
                     <a href="/planes">
                         <div className="group">
                             <img className="w-[160px] mx-auto" src="https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/chicago.png?alt=media&token=a2afa5b9-d092-4c8c-88c7-301da13592b1" alt="" />
@@ -56,7 +56,7 @@ export default function Info() {
                     </a>
                 </div>
 
-                <div  className="p-4 leading-normal mx-auto">
+                <div  className="p-4 leading-normal mx-auto w-[250px] sm:w-[350px]">
                     <a href="/planes">
                         <div className="group">
                             <img className="w-[130px] sm:w-[160px] mx-auto" src="https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/asesores.png?alt=media&token=5d62c605-55c9-44d0-989f-762381b882bc" alt="" />
@@ -68,7 +68,7 @@ export default function Info() {
                     </a>
                 </div>
 
-                <div  className="p-4 leading-normal mx-auto">
+                <div  className="p-4 leading-normal mx-auto w-[250px] sm:w-[350px]">
                     <a href="/planes">
                         <div className="group">
                             <img className="w-[130px] sm:w-[160px] mx-auto" src="https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/ubicacion.png?alt=media&token=a2b90ab0-11b5-4c72-bf22-160a53409bc5" alt="" />
