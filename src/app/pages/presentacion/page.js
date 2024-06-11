@@ -16,7 +16,7 @@ export default function Presentacion() {
                     Provincia de Córdoba.
                 </h2>
             </div>
-            <div className="mx-24 pt-12 sm:pt-0 grid grid-cols-2 place-content-center sm: mb-48 sm: sm:mb-0 sm:col-span-1 sm:grid-cols-1 sm:mt-[80px] ">
+            <div className="mx-20 sm:px-12 pt-12 sm:pt-0 grid grid-cols-2 place-content-center mb-48 sm:mb-0 sm:col-span-1 sm:grid-cols-1 sm:mt-[80px] ">
                 <div className="sm:mt-0 sm:mb-12">
                     <a href="/asociarme">
                         <button type="button" className="shadow-lg shadow-gray-800/40 text-white bg-gradient-to-br from-blue-400 to-green-600 hover:bg-gradient-to-bl focus:outline-none font-medium rounded-lg sm:text-lg text-2xl py-2.5 text-center mb-2 w-52 h-20 sm:w-48 sm:h-14">
