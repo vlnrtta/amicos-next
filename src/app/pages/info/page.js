@@ -50,7 +50,7 @@ export default function Info() {
                             <img className="w-[160px] mx-auto" src="https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/chicago.png?alt=media&token=a2afa5b9-d092-4c8c-88c7-301da13592b1" alt="" />
                             <div className="m-4">
                                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 group-hover:text-green-700">Delegaciones</h5>
-                                <p className="font-normal text-gray-700  group-hover:text-green-700">Estamos en varias localidades del interior.</p>
+                                <p className="font-normal text-gray-700  group-hover:text-green-700">Estamos en varias localidades<br></br> del interior.</p>
                             </div>
                         </div>
                     </a>
