@@ -31,7 +31,7 @@ export default function Footer() {
                     </ul>
                 </div>
             </div>
-            <hr className="mb-2 border-gray-400 sm:mx-auto" />
+            <hr className="mb-2 border-gray-400 w-[657px] sm:w-full px-12" />
             <div className="grid grid-cols-2 place-content-between">
                 <div className="text-gray-700">
                     <p>Asociación Mutual Intercooperativa Solidaria. <br></br>
