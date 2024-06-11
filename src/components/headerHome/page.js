@@ -7,7 +7,6 @@ export default function HeaderHome() {
                         <img
                             className="w-[150px] hover:opacity-80"
                             src="https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/amicos_logo.png?alt=media&token=4b0e4ed1-01b1-43b6-aff1-a0762b71b1c7"
-                            alt="amicos logo"
                         ></img>
                     </a>
                 </div>
@@ -21,10 +20,10 @@ export default function HeaderHome() {
                         <a href="#info" className="hover:text-gray-600 text-3xl md:text-lg">Info</a>
                     </div>
                     <div>
-                        <a href="" className="hover:text-gray-600 text-3xl md:text-lg">Nosotros</a>
+                        <a href="#" className="hover:text-gray-600 text-3xl md:text-lg">Nosotros</a>
                     </div>
                     <div>
-                        <a href="" className="hover:text-gray-600 text-3xl md:text-lg">Redes</a>
+                        <a href="#" className="hover:text-gray-600 text-3xl md:text-lg">Redes</a>
                     </div>
                     <div>
                         <a href="/ingresar" className="hover:text-gray-600 text-3xl md:text-lg">Ingresar</a>
