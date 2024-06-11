@@ -1,7 +1,7 @@
 export default function Atencion() {
     return(
         <div>
-            <div id="atencion" className="mt-28 mb-12 mx-12">
+            <div id="atencion" className="mt-32 mb-12 w-[657px] sm:w-full px-12">
                 <p className="text-xl font-semibold text-green-700">Atención</p>
                 <hr className="border-green-600" />
             </div>
