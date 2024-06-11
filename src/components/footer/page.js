@@ -2,7 +2,7 @@ export default function Footer() {
     return(
         <div className="mt-32 mb-12 w-[657px] sm:w-full px-12">
             <div className="max-w-screen-xl px-6 w-[650px] mx-auto sm:w-full sm:mx-auto md:py-2">
-                <div className="flex items-center justify-between py-2 px-12">
+                <div className="flex items-center justify-between py-2">
                     <a href="#" className="flex items-center sm:mb-0 space-x-3 rtl:space-x-reverse">
                         <img
                             className="h-7" src="https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/amicos_logo.png?alt=media&token=4b0e4ed1-01b1-43b6-aff1-a0762b71b1c7">                                
@@ -21,13 +21,13 @@ export default function Footer() {
                         </li>
                         <li>
                             <a href="https://www.instagram.com/amicos_mutual/" className="hover:opacity-80 me-4 md:me-6 flex align-bottom">
-                            Instagram
+                            
                             </a>
 
                         </li>
                         <li>
                             <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXDxqxtnRDWvxvjCRskvHxBBbtQrFZxkZvxVnvZHJcMgnTFxqsncsfpkgWVdjxkgkTvKg" className="hover:opacity-80">
-                            Gmail
+                            
                             </a>
                         </li>
                     </ul>
