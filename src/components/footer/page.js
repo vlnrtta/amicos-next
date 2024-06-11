@@ -32,7 +32,7 @@ export default function Footer() {
                 </div>
             </div>
             <hr className="mb-2 border-gray-400 w-[550px] sm:w-full mx-auto" />
-            <div className="grid grid-cols-2 mx-auto place-content-center">
+            <div className="grid grid-cols-2 mx-auto w-[550px]">
                 <div className="text-gray-700">
                     <p>Asociación Mutual Intercooperativa Solidaria. <br></br>
                         C.U.I.T. 30-68761473-5 <br></br>
