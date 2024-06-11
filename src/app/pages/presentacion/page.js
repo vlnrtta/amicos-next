@@ -3,7 +3,7 @@
 
 export default function Presentacion() {
   return(
-    <div className="-z-6 bg-left w-[657px] bg-cover h-[530px] bg-[url('https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/image3_1.avif?alt=media&token=6d773f48-8cc7-4fbf-b182-6db36aa5dd7a')]">
+    <div className="-z-6 bg-left w-[657px] sm:w-full sm:bg-center-top bg-cover h-[600px] bg-[url('https://firebasestorage.googleapis.com/v0/b/amicosimagenes.appspot.com/o/image3_1.avif?alt=media&token=6d773f48-8cc7-4fbf-b182-6db36aa5dd7a')]">
         <div className="w-[657px] grid grid-cols-1 place-content-start sm:pt-28 -mb-4 sm:grid-cols-2 sm:py-2 lg:grid-cols-3 sm:w-full" >
             <div className="col-span-2">
                 <h1 className="pl-4 sm:pl-12 text-5xl sm:text-6xl font-bold flex flex-row mt-32 sm:mt-28 drop-shadow-sm text-[#035F22]" >
