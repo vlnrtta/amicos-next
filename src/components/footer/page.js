@@ -1,6 +1,6 @@
 export default function Footer() {
     return(
-        <div className="w-[635px] sm:w-[1220px] mx-auto pb-12 rounded-lg pt-44">
+        <div className="w-[635px] sm:w-[1220px] mx-12 sm:mx-auto pb-12 rounded-lg pt-44">
             <div className="max-w-screen-xl px-6 w-[650px] mx-auto sm:w-full sm:mx-auto md:py-2">
                 <div className="flex items-center justify-between py-2">
                     <a href="#" className="flex items-center sm:mb-0 space-x-3 rtl:space-x-reverse">
