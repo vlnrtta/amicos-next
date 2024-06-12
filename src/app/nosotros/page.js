@@ -15,17 +15,17 @@ export default function Nosotros() {
 
             </div>
             
-            <div className="mx-auto w-[550px] sm:w-[1120px] sm:mx-auto mt-24 p-4 sm:p-8 px-8 rounded-xl border border-green-700 shadow-lg shadow-gray-400 h-full">
+            <div className="mx-14 w-[550px] sm:w-[1120px] sm:mx-auto mt-24 p-4 sm:p-8 px-8 rounded-xl border border-green-700 shadow-lg shadow-gray-400 h-full">
                 <h6 className="mb-1 text-4xl font-bold tracking-tight text-green-700 text-pretty" >Historia</h6>
                 <p className="mb-3 text-xl text-gray-800 leading-relaxed" >A fines del año 1995 representantes de algunas Cooperativas de la Provincia de Córdoba, se auto convocaron con el objeto de analizar la posibilidad de crear una Mutualidad que se dedicara especialmente a atender los problemas de salud de la población del interior, pues se había constatado el requerimiento permanente y sostenido de este tipo de atención ante el decaimiento prestacional de los Hospitales Públicos, las Obras Sociales y Empresas Pre-Pagas existentes El 18 de Diciembre de 1995, se realizó la Asamblea Constitutiva de AMICOS, Entidad a la cual adhirieron inicialmente un grupo de doce (12) Cooperativas necesarias para cumplimentar las prescripciones legales de Fundación, y otras Entidades interesadas en los objetivos, dieron su apoyo, para posteriormente adherir a esta Mutual Intercooperativa. Con fecha 7 de Octubre de 1996, por Resolución N° 953, el INACyM inscribió en el Registro Nacional de Mutualidades a AMICOS, reconociéndola y autorizándola a funcionar como Asociación Mutual, bajo la Matricula N° 680 (Córdoba). Mientras se formalizaban estas inscripciones y se protocolizaban sus Estatutos, el Consejo Directivo de AMICOS, con el aporte de distintas Empresas y Profesionales, realizó las acciones necesarias para concretar los objetivos fundacionales, en una primera fase. Se elaboraron Planes de Salud con el objeto de satisfacer las necesidades detectadas, poniendo énfasis en ofrecer a los asociados prestaciones de calidad, sin pago de plus, con mínimos coseguros y carencias. En estos Planes no existe la “letra chica” que tanto perjudica a los asociados, sobre todo en momentos cruciales. Se realizó un estudio de Planeamiento Estratégico, con el objeto de concientizar y clarificar las prioridades del grupo de trabajo, en un mercado sumamente competitivo, flexible y en permanente transformación.</p>
             </div>
 
-            <div className="mx-auto w-[550px] sm:w-[1120px] sm:mx-auto mt-24 p-4 sm:p-8 px-8 rounded-xl border border-green-700 shadow-lg shadow-gray-400 h-full">
+            <div className="mx-14 w-[550px] sm:w-[1120px] sm:mx-auto mt-24 p-4 sm:p-8 px-8 rounded-xl border border-green-700 shadow-lg shadow-gray-400 h-full">
                 <h6 className="mb-1 text-4xl font-bold tracking-tight text-green-700 text-pretty" >Nuestro objetivo</h6>
                 <p className="mb-3 text-xl text-gray-800 leading-relaxed" >La Aspiración de AMICOS es otorgar completa protección en la poblaciones del interior de la provincia de Córdoba, poniendo en práctica los más nobles principios solidarios, por encima de cualquier interés corporativo, federativo, regional, personal o de cualquier otra índole.</p>
             </div>
             
-            <div className="mx-auto w-[550px] sm:w-[1120px] sm:mx-auto mt-24 p-4 sm:p-8 px-8 rounded-xl border border-green-700 shadow-lg shadow-gray-400 h-full">
+            <div className="mx-14 w-[550px] sm:w-[1120px] sm:mx-auto mt-24 p-4 sm:p-8 px-8 rounded-xl border border-green-700 shadow-lg shadow-gray-400 h-full">
                 <h6 className="mb-1 text-4xl font-bold tracking-tight text-green-700 text-pretty" >Comisión directiva y junta fiscalizadora</h6>
                 <ul className="mb-3 text-xl text-gray-800 leading-relaxed" >
                     <li>● Antimo N. VELAZQUEZ <b>Presidente</b> DNI 10.323.417 - LA PARA</li>
@@ -49,7 +49,7 @@ export default function Nosotros() {
                 </ul>
             </div>
 
-            <div className="mx-auto w-[550px] sm:w-[1120px] sm:mx-auto mt-24 p-4 sm:p-8 px-8 rounded-xl border border-green-700 shadow-lg shadow-gray-400 h-full">
+            <div className="mx-14 w-[550px] sm:w-[1120px] sm:mx-auto mt-24 p-4 sm:p-8 px-8 rounded-xl border border-green-700 shadow-lg shadow-gray-400 h-full">
                 <h6 className="mb-1 text-4xl font-bold tracking-tight text-green-700 text-pretty" >Staff</h6>
                 <ul className="mb-3 text-xl text-gray-800 leading-relaxed" >
                     <li>● COORDINADOR GENERAL - Franco Amaya</li>
