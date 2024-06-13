@@ -16,19 +16,19 @@ export default function HeaderHome() {
                 <div className="font-semibold justify-center mb-4 md:mb-0 opacity-80 gap-x-6 flex md:justify-end">
 
                     <div>
-                        <a href="#atencion" className="hover:text-gray-600 text-3xl md:text-lg">Atención</a>
+                        <Link href="/#atencion" className="hover:text-gray-600 text-3xl md:text-lg">Atención</Link>
                     </div>
                     <div>
-                        <a href="#info" className="hover:text-gray-600 text-3xl md:text-lg">Info</a>
+                        <Link href="/#info" className="hover:text-gray-600 text-3xl md:text-lg">Info</Link>
                     </div>
                     <div>
                         <Link href="/nosotros" className="hover:text-gray-600 text-3xl md:text-lg">Nosotros</Link>
                     </div>
                     <div>
-                        <a href="#" className="hover:text-gray-600 text-3xl md:text-lg">Redes</a>
+                        <Link href="/" className="hover:text-gray-600 text-3xl md:text-lg">Redes</Link>
                     </div>
                     <div>
-                        <a href="/ingresar" className="hover:text-gray-600 text-3xl md:text-lg">Ingresar</a>
+                        <Link href="/ingresar" className="hover:text-gray-600 text-3xl md:text-lg">Ingresar</Link>
                     </div>
 
                 </div> 
